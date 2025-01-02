@@ -15,7 +15,7 @@ class A01 {
         int age = 2025 - birth_year + 1;
 
         System.out.println("You are "+age+" year's old.");
-
+        sc.close();
     }
     
 }
